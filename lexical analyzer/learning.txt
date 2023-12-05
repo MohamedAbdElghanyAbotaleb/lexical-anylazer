@@ -1,0 +1,11 @@
+
+what is stream?
+why we need to avoid relative path as escape sequence ?
+how open file using c ?
+important of getc and ungetc functions in our projects
+why we need compilation process ?
+explain scanner
+using gdb debugger to track the code
+ctr+ r to replace
+ctrl + f to find in file
+

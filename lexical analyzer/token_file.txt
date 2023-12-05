@@ -1,0 +1,58 @@
+  Token_Type    |    Lexeme
+
+  symbol        |   #
+  keyword       |   include
+  operator      |   <
+  IDENTIFIER    |   iostream
+  operator      |   >
+  New_line      |   
+  IDENTIFIER    |   using
+  IDENTIFIER    |   namespace
+  IDENTIFIER    |   std
+  symbol        |   ;
+  New_line      |   
+  keyword       |   int
+  IDENTIFIER    |   main
+  operator      |   (
+  symbol        |   )
+  symbol        |   {
+  New_line      |   
+  keyword       |   int
+  IDENTIFIER    |   x
+  symbol        |   ;
+  New_line      |   
+  IDENTIFIER    |   cin
+  operator      |   >>
+  IDENTIFIER    |   x
+  symbol        |   ;
+  New_line      |   
+  keyword       |   for
+  operator      |   (
+  keyword       |   int
+  IDENTIFIER    |   i
+  operator      |   =
+  Number        |   0
+  symbol        |   ;
+  IDENTIFIER    |   i
+  operator      |   <
+  IDENTIFIER    |   x
+  symbol        |   ;
+  operator      |   ++
+  IDENTIFIER    |   i
+  symbol        |   )
+  symbol        |   {
+  New_line      |   
+  IDENTIFIER    |   cout
+  operator      |   <<
+  IDENTIFIER    |   i
+  operator      |   <<
+  IDENTIFIER    |   endl
+  symbol        |   ;
+  New_line      |   
+  symbol        |   }
+  New_line      |   
+  keyword       |   return
+  Number        |   0
+  symbol        |   ;
+  New_line      |   
+  symbol        |   }
